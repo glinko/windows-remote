@@ -1,0 +1,9 @@
+.build-env/
+build/
+dist/
+*.spec
+__pycache__/
+server.json
+bridge.json
+audit*.jsonl
+WindowsRemote-Windows-x64.zip
